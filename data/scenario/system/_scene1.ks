@@ -1,1 +1,2 @@
-;背景素材のプリロード
+[preload  storage="./data/bgimage/room.jpg"  ]
+[return]
